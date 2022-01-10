@@ -1,6 +1,6 @@
 public class helloWorld {
 
-    String name = "Ya moms a hoe!";
+    String words = "Ya moms a hoe!";
 
-
+String words2 = "ya pops a bitch!";
 }
